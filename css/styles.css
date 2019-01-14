@@ -1,3 +1,6 @@
+body{
+  background-color: grey;
+}
 img{
   max-width: 300px;
   max-height: 200px;
@@ -7,8 +10,15 @@ img{
   text-align: center;
   height: 250px;
   font-size: 30px;
-  border: 5px solid black;
+  border: 5px solid blue;
 }
+.jumbo{
+  background-image:url("http://www.clker.com/cliparts/e/7/4/4/1194991183406177705six-sided_dice_faces_lio_01.svg");
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 0%;
+}
+
 .container{
   width:1008px;
 }
@@ -83,10 +93,12 @@ li{
   font-size: 24px;
 }
 #title1{
-  color: #405596;
+  color: blue;
+  font-weight: bolder;
 }
 #title2{
-  color: #C75E5E;
+  color: green;
+  font-weight: bolder;
 }
 #p1{
   font-family: 'Gaegu', cursive;
