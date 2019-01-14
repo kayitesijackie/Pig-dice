@@ -28,3 +28,9 @@ img{
     width:950px;
     display: none;
   }
+  h2{
+    font-family: 'Lobster Two', cursive;
+  }
+  li{
+    font-style: italic;
+  }
