@@ -19,3 +19,12 @@ img{
     width:400px;
     margin-right: 45px;
   }
+  .newgame{
+    float:left;
+    padding: 10px;
+    margin-left: 50px;
+  }
+  .game{
+    width:950px;
+    display: none;
+  }
