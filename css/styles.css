@@ -1,115 +1,114 @@
 img{
-    max-width: 300px;
-    max-height: 200px;
-  }
+  max-width: 300px;
+  max-height: 200px;
+}
 .jumbotron{
-    font-family: 'Skranji', cursive;
-    text-align: center;
-    height: 250px;
-    font-size: 30px;
-    border: 5px solid black;
-  }
+  font-family: 'Skranji', cursive;
+  text-align: center;
+  height: 250px;
+  font-size: 30px;
+  border: 5px solid black;
+}
 .container{
-    width:1008px;
-  }
+  width:1008px;
+}
 .image{
-    float:right;
-    text-align: center;
-    padding: 10px;
-    width:400px;
-    margin-right: 45px;
-  }
-  .newgame{
-    float:left;
-    padding: 10px;
-    margin-left: 50px;
-  }
-  .game{
-    width:950px;
-    display: none;
-  }
-  h2{
-    font-family: 'Lobster Two', cursive;
-  }
-  li{
-    font-style: italic;
-  }
-  #players{
-    width:700px;
-    text-align: center;
-    padding-left: 322px;
-  }
-  #onedice{
-    display: none;
+  float:right;
+  text-align: center;
+  padding: 10px;
+  width:400px;
+  margin-right: 45px;
+}
+.newgame{
+  float:left;
+  padding: 10px;
+  margin-left: 50px;
+}
+.game{
+  width:950px;
+  display: none;
+}
+h2{
+  font-family: 'Lobster Two', cursive;
+}
+li{
+  font-style: italic;
+}
+#players{
+  width:700px;
+  text-align: center;
+  padding-left: 322px;
+}
+#onedice{
+  display: none;
   
-  }
-  #twodice{
-    display: none;
+}
+#twodice{
+  display: none;
   
-  }
+}
+#threedice{
+  display: none;
+}
   
-  #threedice{
-    display: none;
+#fourdice{
+  display: none;
+}
   
-  }
-  
-  #fourdice{
-    display: none;
-  
-  }
-  
-  #fivedice{
-    display: none;
-  
-  }
-  #sixdice{
-    display: none;
-  
-  }
-  #newgame{
-    font-size: 26px;
-    font-family: 'Righteous', cursive;
-    border-radius: 10px;
-    background-color: #4E976D;
-    color: #01180C;
-  
-  }
+#fivedice{
+  display: none;
+}
+#sixdice{
+  display: none;
+}
+#newgame{
+  font-size: 26px;
+  font-family: 'Righteous', cursive;
+  border-radius: 10px;
+  background-color: #4E976D;
+  color: whitesmoke;
+  font-weight: bolder;
+}
   
   #newgame:hover{
-    background-color: #10532C;
-  }
-  #newgame:active{
-    transform: translateY(5px);
-  }
-  .panel-footer{
-    margin-top: 30px;
-    text-align: center;
-    font-family: 'Cookie', cursive;
-    font-size: 24px;
-  }
-  #title1{
-    color: #405596;
-  }
-  #title2{
-    color: #C75E5E;
-  }
-  #p1{
-    font-family: 'Gaegu', cursive;
-      font-size: 34px;
-    margin-left: 20px;
-  }
-  #p2{
-    font-family: 'Gaegu', cursive;
-      font-size: 34px;
-        margin-left: 20px;
-  }
-  #ready{
-    background-color: orange;
-  }
-  #p1-hold{
-    background-color: red;
-  }
-  #p2-hold{
-    background-color: red;
-  }
+  background-color: #C75E5E;
+}
+#newgame:active{
+  transform: translateY(5px);
+}
+.panel-footer{
+  margin-top: 30px;
+  text-align: center;
+  font-family: 'Cookie', cursive;
+  font-size: 24px;
+}
+#title1{
+  color: #405596;
+}
+#title2{
+  color: #C75E5E;
+}
+#p1{
+  font-family: 'Gaegu', cursive;
+  font-size: 34px;
+  margin-left: 20px;
+}
+#p2{
+  font-family: 'Gaegu', cursive;
+  font-size: 34px;
+  margin-left: 20px;
+}
+#ready{
+  background-color: blue;
+  font-weight: bold;
+}
+  #ready:hover{
+  background-color: orange;
+}
+#p1-hold{
+ background-color: red;
+}
+#p2-hold{
+  background-color: red;
+}
   
